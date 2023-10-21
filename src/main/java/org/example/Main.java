@@ -18,5 +18,6 @@ public class Main {
 
         //Unused
         int b;
+        int c;
     }
 }
