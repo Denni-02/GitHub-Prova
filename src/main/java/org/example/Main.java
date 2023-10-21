@@ -17,6 +17,6 @@ public class Main {
         }
 
         //Unused
-        int a;
+        int b;
     }
 }
